@@ -41,8 +41,8 @@ Content-based filtering recommends items similar to those a user has shown inter
 5. Scalability: Efficient handling of large datasets and numerous features.
 6. Personalization: Tailors recommendations to individual user tastes and preferences.
 
-# Dependencies
+### Dependencies
 TensorFlow, TensorFlow Datasets, Numpy, Pandas, Keras
 
-# Author
+### Author
 Jai Karaneesh Sundar
